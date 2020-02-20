@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://g.hz.netease.com/f2e/component/ne-velocity-loader"
+    "url": "https://github.com/hejingmiao/ne-velocity-loader"
   },
   "keywords": [
     "velocity"
