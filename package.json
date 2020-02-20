@@ -1,0 +1,21 @@
+{
+  "name": "ne-velocity-loader",
+  "version": "0.0.1",
+  "description": "本地环境支持渲染velocity",
+  "main": "ne-velocity-loader.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://g.hz.netease.com/f2e/component/ne-velocity-loader"
+  },
+  "keywords": [
+    "velocity"
+  ],
+  "author": "hejingmiao",
+  "license": "ISC"
+}
